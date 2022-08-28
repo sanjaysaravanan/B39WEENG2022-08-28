@@ -1,0 +1,27 @@
+Topics:
+  OOP --> Object Oriented Programming
+    Creating real-time entity(Eg: mobile, bike, laptop ... etc) 
+    into a imaginary software object and developing on top of it is called OOP
+  new --> keyword used to create a imaginary real-time entity into the program
+  
+  function construction & use of this keyword
+    function keyword --> has the ability to create **new** object
+    arrow function --> does not have the ability to creating new object
+
+  class construction:
+    ES5 --> function keyword was used for everything (create obj, normal function ...)
+    ES6 --> class --> Specifically made only for construction
+    Blueprint to create an object (here it is Bike)
+  
+  prototype
+
+  Next Additional Session:
+    Array Methods
+      Split --> 
+      Slice -->
+      Filter --> 
+      Find --> 
+      Map --> 
+      FindIndex -->
+      Reduce -->
+    
